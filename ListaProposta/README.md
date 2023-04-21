@@ -4,7 +4,7 @@
 | ------------- | ------------- |
 | `02`  | Faça um programa que receba duas notas, calcule e mostre a média aritmética e a mensagem que segue a tabela a seguir. <br> <br> Média Aritmética ------- Mensagem <br> 0 - 4 ---------------------     Reprovado <br> 4 - 7 ---------------------     Exame  <br> 7 - 10 --------------------   Aprovado |
 | `07`  | Uma empresa decide dar um aumento de 30% aos funcionários com salários inferiores a R$ 500,00. Faça um programa que receba o salário do funcionário e mostre o valor do salário reajustado ou uma mensagem, caso o funcionário não tenha direito ao aumento.  |
-|   |   |
+| `10`  | O custo ao consumidor de um carro novo é a soma do custo de fábrica com a porcentagem do distribuidor e com os impostos, ambos aplicados ao custo de fábrica. Sabe-se que as porcentagens são as mesmas que estão na tabela a seguir. Faça um programa que receba o custo de fábrica de um carro e mostre o custo ao consumidor. <br> <br> Custo de Fábrica|
 |   |   |
 |   |   |
 |   |   |
