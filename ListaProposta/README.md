@@ -2,12 +2,8 @@
 
 | Questões  | Enunciado |
 | ------------- | ------------- |
-| `02`  | Faça um programa que receba três notas de um aluno, calcule e mostre a média aritmética e a mensagem que segue a tabela abaixo. Para alunos de exame, calcule e mostre a nota que deverá ser l tirada no exame para aprovação, considerando que a média no exame é 6.0.
-Média Aritmética    Mensagem
-0 - 3               Reprovado 
-3 - 7               Exame
-7 - 10              Aprovado |
-|   |   |
+| `02`  | Faça um programa que receba duas notas, calcule e mostre a média aritmética e a mensagem que segue a tabela a seguir. <br> <br> Média Aritmética ------- Mensagem <br> 0 - 4 ---------------------     Reprovado <br> 4 - 7 ---------------------     Exame  <br> 7 - 10 --------------------   Aprovado |
+| `07`  |   |
 |   |   |
 |   |   |
 |   |   |
